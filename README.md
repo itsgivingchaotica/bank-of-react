@@ -34,13 +34,6 @@ AND each Debit should display a Debit amount
 AND each Debit should display a Debit date
 ```
 ```
-Viewing the Account Balance on the Debits page:
-
-GIVEN I am on the Debits page
-WHEN I view the Account Balance display area
-THEN I should see my Account Balance displayed
-```
-```
 Adding debits:
 
 GIVEN I am on the Debits page
