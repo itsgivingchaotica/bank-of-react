@@ -64,7 +64,7 @@ THEN I should be redirected to the Credits page
 AND I should see a title of 'Credits' on the page
 ```
 ```
-Displaying debits:
+Displaying credits:
 
 GIVEN I am on the Credits page
 WHEN I view the Credits display area
