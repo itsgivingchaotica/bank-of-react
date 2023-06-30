@@ -3,6 +3,7 @@
 https://bank-of-react-b745wfs0u-ajlapid718.vercel.app/debits
 https://bank-of-react-b745wfs0u-ajlapid718.vercel.app/credits
 
+```
 Updating the Account Balance
 
 Making the Account Balance dynamic:
@@ -79,3 +80,5 @@ Viewing the Account Balance on the Credits page:
 GIVEN I am on the Credits page
 WHEN I view the Account Balance display area
 THEN I should see my Account Balance displayed
+```
+
