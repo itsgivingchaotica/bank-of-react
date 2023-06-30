@@ -3,9 +3,10 @@
 https://bank-of-react-b745wfs0u-ajlapid718.vercel.app/debits
 https://bank-of-react-b745wfs0u-ajlapid718.vercel.app/credits
 
-```
+
 Updating the Account Balance
 
+```
 Making the Account Balance dynamic:
 
 GIVEN I am on any page displaying the Account Balance
@@ -13,9 +14,10 @@ WHEN I view the Account Balance display area
 THEN I should see an Account Balance that accurately represents my Debits subtracted from my Credits
 AND I should be able to see a negative account balance if I have more Debits than Credits
 ```
-```
+
 Adding Debits
 
+```
 Viewing the Debits page:
 
 GIVEN I am on the Home Page
@@ -50,9 +52,10 @@ GIVEN I am on the Debits page
 WHEN I view the Account Balance display area
 THEN I should see my Account Balance displayed
 ```
-```
+
 Adding Credits
 
+```
 Viewing the Credits page:
 
 GIVEN I am on the Home Page
@@ -69,13 +72,6 @@ THEN I should see all of my Credits displayed
 AND each Debit should display a Debit description
 AND each Debit should display a Debit amount
 AND each Debit should display a Debit date
-```
-```
-Viewing the Account Balance on the Credits page:
-
-GIVEN I am on the Credits page
-WHEN I view the Account Balance display area
-THEN I should see my Account Balance displayed
 ```
 ```
 Adding Credits:
