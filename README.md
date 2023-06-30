@@ -69,9 +69,9 @@ Displaying debits:
 GIVEN I am on the Credits page
 WHEN I view the Credits display area
 THEN I should see all of my Credits displayed
-AND each Debit should display a Debit description
-AND each Debit should display a Debit amount
-AND each Debit should display a Debit date
+AND each Credit should display a Credit description
+AND each Credit should display a Credit amount
+AND each Credit should display a Credit date
 ```
 ```
 Adding Credits:
